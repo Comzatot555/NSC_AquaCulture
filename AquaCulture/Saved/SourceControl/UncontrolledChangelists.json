@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/GitHub/NSC_AquaCulture/AquaCulture/Content/ThirdPerson/Maps/AquaCulture_Map.umap",
+				"C:/Users/User/Documents/GitHub/NSC_AquaCulture/AquaCulture/Content/AQ_Map/AquaCulture_Map.umap"
+			]
+		}
+	]
+}
